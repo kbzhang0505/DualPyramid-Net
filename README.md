@@ -95,11 +95,11 @@ python detect.py --source test_images/ --runs/train/Dualpyramid-Net/weights/best
 
 **CAT Module**
 
-![fig2](Code\fig\fig3.png)
+![fig3](Code\fig\fig3.png)
 
 # Result
 
-![fig2](Code\fig\fig4.png)
+![fig4](Code\fig\fig4.png)
 
 
 
